@@ -178,10 +178,10 @@ public class MainActivity extends Activity implements OnTouchListener {
 				boolean none = true;
 				for (Map.Entry<String, ?> entry : keys.entrySet()) {
 					try {
-						if (entry.getKey().toString().contains("_id") && !entry.getValue().equals("")) {
+						if (entry.getKey().contains("_id") && !entry.getValue().equals("")) {
 							none = false;
-							Log.d("startup", entry.getKey().toString());
-							StandOutWindow.show(MainActivity.this, MultiWindow.class, Integer.parseInt(entry.getKey().toString().replace("_id", "")));
+							Log.d("startup", entry.getKey());
+							StandOutWindow.show(MainActivity.this, FloatingSticky.class, Integer.parseInt(entry.getKey().replace("_id", "")));
 							Thread.sleep(1500);
 						}
 					} catch (Exception e) {
@@ -189,7 +189,7 @@ public class MainActivity extends Activity implements OnTouchListener {
 					}
 				}
 				if (none) {
-					StandOutWindow.show(MainActivity.this, MultiWindow.class, StandOutWindow.DEFAULT_ID);
+					StandOutWindow.show(MainActivity.this, FloatingSticky.class, StandOutWindow.DEFAULT_ID);
 				}
 			}
 

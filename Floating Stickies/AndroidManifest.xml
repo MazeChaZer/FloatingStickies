@@ -35,7 +35,7 @@
             android:theme="@android:style/Theme.Dialog" >
         </activity>
 
-        <service android:name="genius.mohammad.floating.stickies.MultiWindow" >
+        <service android:name=".FloatingSticky" >
         </service>
     </application>
 
