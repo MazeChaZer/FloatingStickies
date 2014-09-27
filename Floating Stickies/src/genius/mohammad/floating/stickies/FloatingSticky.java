@@ -42,7 +42,7 @@ public class FloatingSticky extends StandOutWindow {
 
 	@Override
 	public int getAppIcon() {
-		return R.drawable.icon;
+		return R.drawable.ic_notif;
 	}
 
 	@Override
@@ -140,7 +140,11 @@ public class FloatingSticky extends StandOutWindow {
 
 	@Override
 	public int getFlags(int id) {
-		return StandOutFlags.FLAG_DECORATION_SYSTEM | StandOutFlags.FLAG_BODY_MOVE_ENABLE | StandOutFlags.FLAG_WINDOW_EDGE_LIMITS_ENABLE | StandOutFlags.FLAG_WINDOW_BRING_TO_FRONT_ON_TAP | StandOutFlags.FLAG_WINDOW_BRING_TO_FRONT_ON_TOUCH | StandOutFlags.FLAG_WINDOW_PINCH_RESIZE_ENABLE;
+		return StandOutFlags.FLAG_DECORATION_SYSTEM |
+                StandOutFlags.FLAG_BODY_MOVE_ENABLE |
+                StandOutFlags.FLAG_WINDOW_EDGE_LIMITS_ENABLE |
+                StandOutFlags.FLAG_WINDOW_BRING_TO_FRONT_ON_TAP |
+                StandOutFlags.FLAG_WINDOW_PINCH_RESIZE_ENABLE;
 	}
 
 	@Override
@@ -150,7 +154,7 @@ public class FloatingSticky extends StandOutWindow {
 
 	@Override
 	public String getPersistentNotificationMessage(int id) {
-		return "Click to save & close all stickies";
+		return "Tap to save & close stickies";
 	}
 
 	@Override

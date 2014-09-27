@@ -17,15 +17,52 @@
     <shared>
       <config />
     </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/StandOutSDK/res/layout/system_window_decorators.xml">
+        <config>
+          <theme>@android:style/Theme.Holo</theme>
+        </config>
+      </layout>
+    </layouts>
   </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: genius.mohammad.floating.stickies" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="679a81e9-5daf-4a10-bd38-3a9f58d6ce0f" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\Mohammad\Dropbox\Development\Android\FloatingStickies\Floating Stickies\src\genius\mohammad\floating\stickies\MultiWindow.java" afterPath="$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/FloatingSticky.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/floatingnotes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Floating Stickies/res/drawable-hdpi/ic_notif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Floating Stickies/res/drawable-hdpi-v11/ic_notif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Floating Stickies/res/drawable-mdpi/ic_notif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Floating Stickies/res/drawable-mdpi-v11/ic_notif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Floating Stickies/res/drawable-xhdpi/ic_notif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Floating Stickies/res/drawable-xhdpi-v11/ic_notif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Floating Stickies/res/drawable-xxhdpi/ic_notif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Floating Stickies/res/drawable-xxhdpi-v11/ic_notif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StandOutSDK/res/drawable/selector_menu_button.xml" />
+      <change type="DELETED" beforePath="C:\Users\Mohammad\Dropbox\Development\Android\FloatingStickies\Floating Stickies\src\genius\mohammad\floating\stickies\MultiWindow.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mohammad\Dropbox\Development\Android\FloatingStickies\StandOutSDK\res\anim\show2.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/backg.png" afterPath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/backg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/backg1.png" afterPath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/backg1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/backg2.png" afterPath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/backg2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/banner.png" afterPath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/banner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/banner1.png" afterPath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/banner1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/banner2.png" afterPath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/banner2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/close.png" afterPath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/close.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/corner.png" afterPath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/corner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/dockglow.png" afterPath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/dockglow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/down.png" afterPath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/down.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/drop.png" afterPath="$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/drop.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Floating Stickies/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Floating Stickies/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/FloatingSticky.java" afterPath="$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/FloatingSticky.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/MainActivity.java" afterPath="$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/StandOutWindow.java" afterPath="$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/StandOutWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/ui/Window.java" afterPath="$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/ui/Window.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/values/colors.xml" afterPath="$PROJECT_DIR$/StandOutSDK/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/layout/drop_down_list_item.xml" afterPath="$PROJECT_DIR$/StandOutSDK/res/layout/drop_down_list_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/anim/show.xml" afterPath="$PROJECT_DIR$/StandOutSDK/res/anim/show.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StandOutSDK/res/layout/system_window_decorators.xml" afterPath="$PROJECT_DIR$/StandOutSDK/res/layout/system_window_decorators.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FloatingStickies.iws" />
@@ -49,21 +86,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2599119" vertical-offset="2738" max-vertical-offset="3451">
-              <caret line="205" column="55" selection-start-line="205" selection-start-column="55" selection-end-line="205" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="2822" max-vertical-offset="4080">
+              <caret line="166" column="18" selection-start-line="166" selection-start-column="18" selection-end-line="166" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FloatingSticky.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="drop_down_list_item.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StandOutSDK/res/layout/drop_down_list_item.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="442">
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selector_menu_button.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StandOutSDK/res/drawable/selector_menu_button.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="204">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colors.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StandOutSDK/res/values/colors.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="238">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FloatingSticky.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/FloatingSticky.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2227" max-vertical-offset="3213">
-              <caret line="131" column="77" selection-start-line="131" selection-start-column="77" selection-end-line="131" selection-end-column="77" />
+            <state vertical-scroll-proportion="0.6530612" vertical-offset="1480" max-vertical-offset="2737">
+              <caret line="127" column="77" selection-start-line="127" selection-start-column="77" selection-end-line="127" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StandOutFlags.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/constants/StandOutFlags.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2127" max-vertical-offset="3655">
+              <caret line="98" column="44" selection-start-line="98" selection-start-column="44" selection-end-line="98" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Window.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/ui/Window.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="6513" max-vertical-offset="12869">
+              <caret line="441" column="24" selection-start-line="441" selection-start-column="24" selection-end-line="441" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -71,12 +161,32 @@
       </file>
       <file leaf-file-name="system_window_decorators.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StandOutSDK/res/layout/system_window_decorators.xml">
-          <provider selected="true" editor-type-id="android-designer">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1734" max-vertical-offset="1938">
+              <caret line="102" column="48" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
             <state />
           </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="215" max-vertical-offset="1955">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </entry>
+      </file>
+      <file leaf-file-name="StandOutWindow.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/StandOutWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.571428" vertical-offset="25312" max-vertical-offset="30872">
+              <caret line="1616" column="21" selection-start-line="1611" selection-start-column="21" selection-end-line="1616" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StandOutSDK/res/anim/show.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="323">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -88,6 +198,11 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\Mohammad\Dropbox\Development\Android\Keystores\FloatingStickies" />
+    <option name="KEY_ALIAS" value="mohammad adib" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -1504,8 +1619,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/StandOutSDK/res/layout/system_window_decorators.xml" />
+        <option value="$PROJECT_DIR$/Floating Stickies/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/StandOutSDK/res/anim/close.xml" />
+        <option value="$PROJECT_DIR$/StandOutSDK/res/anim/show.xml" />
         <option value="$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/MainActivity.java" />
+        <option value="$PROJECT_DIR$/StandOutSDK/res/layout/system_window_decorators.xml" />
+        <option value="$PROJECT_DIR$/StandOutSDK/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/StandOutSDK/res/drawable/selector_menu_button.xml" />
+        <option value="$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/ui/Window.java" />
+        <option value="$PROJECT_DIR$/StandOutSDK/res/layout/drop_down_list_item.xml" />
+        <option value="$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/StandOutWindow.java" />
+        <option value="$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/FloatingSticky.java" />
       </list>
     </option>
   </component>
@@ -1541,9 +1665,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1615,6 +1739,10 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1635,6 +1763,90 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FloatingStickies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FloatingStickies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StandOutSDK" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FloatingStickies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FloatingStickies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StandOutSDK" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-hdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FloatingStickies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FloatingStickies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StandOutSDK" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FloatingStickies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FloatingStickies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StandOutSDK" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anim" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1674,6 +1886,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FloatingStickies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FloatingStickies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Floating Stickies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FloatingStickies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FloatingStickies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Floating Stickies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-xhdpi-v11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -1690,9 +1942,19 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.56.101:5555" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Glass" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mohammad\Dropbox\Development\Android\FloatingStickies\StandOutSDK\res\drawable" />
+      <recent name="C:\Users\Mohammad\Dropbox\Development\Android\FloatingStickies\Floating Stickies\res" />
+      <recent name="C:\Users\Mohammad\Dropbox\Development\Android\FloatingStickies\StandOutSDK\res\drawable-hdpi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mohammad\Dropbox\Development\Android\FloatingStickies\Floating Stickies\res" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.Floating Stickies">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -1724,19 +1986,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -1762,6 +2011,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1852,6 +2114,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="679a81e9-5daf-4a10-bd38-3a9f58d6ce0f" name="Default" comment="" />
@@ -1862,7 +2129,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1870,11 +2137,12 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1887,10 +2155,9 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962447" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1916,6 +2183,92 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4080">
+          <caret line="166" column="18" selection-start-line="166" selection-start-column="18" selection-end-line="166" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/layout/drop_down_list_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="442">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/drawable/selector_menu_button.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="204">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="238">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/FloatingSticky.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2465" max-vertical-offset="3281">
+          <caret line="145" column="44" selection-start-line="145" selection-start-column="44" selection-end-line="145" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/constants/StandOutFlags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2127" max-vertical-offset="3655">
+          <caret line="98" column="44" selection-start-line="98" selection-start-column="44" selection-end-line="98" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/ui/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7329" max-vertical-offset="14280">
+          <caret line="441" column="24" selection-start-line="441" selection-start-column="24" selection-end-line="441" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/layout/system_window_decorators.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1734" max-vertical-offset="1938">
+          <caret line="102" column="48" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/StandOutWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="25257" max-vertical-offset="32878">
+          <caret line="1494" column="70" selection-start-line="1494" selection-start-column="70" selection-end-line="1494" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/anim/show.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="323">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3536">
           <caret line="205" column="55" selection-start-line="205" selection-start-column="55" selection-end-line="205" selection-end-column="55" />
           <folding />
@@ -1931,14 +2284,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StandOutSDK/res/layout/system_window_decorators.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="215" max-vertical-offset="1955">
           <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
           <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/MainActivity.java">
@@ -1958,39 +2311,134 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StandOutSDK/res/layout/system_window_decorators.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="215" max-vertical-offset="1955">
           <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/layout/system_window_decorators.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="215" max-vertical-offset="1955">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding />
-        </state>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/corner.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/FloatingSticky.java">
+    <entry file="file://$PROJECT_DIR$/Floating Stickies/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2160" max-vertical-offset="2703">
-          <caret line="131" column="77" selection-start-line="131" selection-start-column="77" selection-end-line="131" selection-end-column="77" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="799">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+          <folding>
+            <element signature="e#751#769#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/anim/close.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="2" column="63" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/drawable-hdpi/banner1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/anim/dock.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/anim/show.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2599119" vertical-offset="2738" max-vertical-offset="3451">
-          <caret line="205" column="55" selection-start-line="205" selection-start-column="55" selection-end-line="205" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="2148" max-vertical-offset="3451">
+          <caret line="166" column="18" selection-start-line="166" selection-start-column="18" selection-end-line="166" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/layout/drop_down_list_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="442">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/drawable/selector_menu_button.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/res/layout/system_window_decorators.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1734" max-vertical-offset="1938">
+          <caret line="102" column="48" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/constants/StandOutFlags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2127" max-vertical-offset="3655">
+          <caret line="98" column="44" selection-start-line="98" selection-start-column="44" selection-end-line="98" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/ui/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7329" max-vertical-offset="14280">
+          <caret line="441" column="24" selection-start-line="441" selection-start-column="24" selection-end-line="441" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StandOutSDK/src/wei/mark/standout/StandOutWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.571428" vertical-offset="25312" max-vertical-offset="30872">
+          <caret line="1616" column="21" selection-start-line="1611" selection-start-column="21" selection-end-line="1616" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Floating Stickies/src/genius/mohammad/floating/stickies/FloatingSticky.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6530612" vertical-offset="1480" max-vertical-offset="2737">
+          <caret line="127" column="77" selection-start-line="127" selection-start-column="77" selection-end-line="127" selection-end-column="77" />
           <folding />
         </state>
       </provider>

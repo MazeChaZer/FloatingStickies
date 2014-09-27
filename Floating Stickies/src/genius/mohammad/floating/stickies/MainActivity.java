@@ -52,9 +52,9 @@ public class MainActivity extends Activity implements OnTouchListener {
 			final ImageView iv4 = (ImageView) findViewById(R.id.done);
 			final CheckBox cb = (CheckBox) findViewById(R.id.checkBox);
 
-			final Animation anim1 = AnimationUtils.loadAnimation(this, R.anim.show2);
-			final Animation anim2 = AnimationUtils.loadAnimation(this, R.anim.show2);
-			final Animation anim3 = AnimationUtils.loadAnimation(this, R.anim.show2);
+			final Animation anim1 = AnimationUtils.loadAnimation(this, R.anim.show);
+			final Animation anim2 = AnimationUtils.loadAnimation(this, R.anim.show);
+			final Animation anim3 = AnimationUtils.loadAnimation(this, R.anim.show);
 			final Animation anim4 = AnimationUtils.loadAnimation(this, android.R.anim.fade_in);
 			final Animation anim5 = AnimationUtils.loadAnimation(this, android.R.anim.fade_out);
 			final Animation anim6 = AnimationUtils.loadAnimation(this, android.R.anim.fade_in);
