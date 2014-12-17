@@ -418,14 +418,14 @@ public class Window extends FrameLayout {
 
     public PopupWindow getDropDownList() {
         final List<DropDownListItem> items = new ArrayList<DropDownListItem>();
-        items.add(new DropDownListItem("Copy", new Runnable() {
+        items.add(new DropDownListItem(getResources().getString(android.R.string.copy), new Runnable() {
             @Override
             public void run() {
                 ClipboardManager clipboard = (ClipboardManager) mContext.getSystemService(Context.CLIPBOARD_SERVICE);
                 clipboard.setText(getText());
             }
         }));
-        items.add(new DropDownListItem("Paste", new Runnable() {
+        items.add(new DropDownListItem(getResources().getString(android.R.string.paste), new Runnable() {
             @Override
             public void run() {
                 try {
@@ -436,7 +436,7 @@ public class Window extends FrameLayout {
                 }
             }
         }));
-        items.add(new DropDownListItem("Share", new Runnable() {
+        items.add(new DropDownListItem(getResources().getString(R.string.share), new Runnable() {
             @Override
             public void run() {
                 // Share
