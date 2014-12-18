@@ -7,6 +7,6 @@
     <color name="black">#55000000</color>
 
     <string name="update">Update v20.0</string>
-    <string name="do_not_show_again">Don not show again</string>
+    <string name="do_not_show_again">Do not show again</string>
 
 </resources>
