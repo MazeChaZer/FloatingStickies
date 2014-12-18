@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="dont_show_again">Nicht noch einmal anzeigen</string>
+    <string name="do_not_show_again">Nicht noch einmal anzeigen</string>
     <string name="update">Update v20.0</string>
 </resources>
